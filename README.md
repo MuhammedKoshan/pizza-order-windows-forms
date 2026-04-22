@@ -23,7 +23,9 @@ A simple desktop application built using **C# and Windows Forms** that allows us
 - Windows Forms (WinForms)
 
 ## 📸 Preview
-![App Screenshot](screenshot.png)
+
+<img width="1061" height="524" alt="image" src="https://github.com/user-attachments/assets/7634b596-b2d9-4743-bef1-3120581ea471" />
+
 
 ## 💡 How It Works
 The application updates the order summary and total price in real-time based on user selections using event-driven programming.
